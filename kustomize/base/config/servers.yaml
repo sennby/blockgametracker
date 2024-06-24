@@ -114,6 +114,8 @@ java:
     address: "mc.freakyville.net"
   - name: "PokeFind"
     address: "play.pokefind.co"
+  - name: "SiphonMC"
+    address: "play.siphonmc.net"
   - name: "Hideaway"
     address: "playhideaway.com"
   - name: "Hoplite"
